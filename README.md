@@ -40,7 +40,7 @@ This is a **Netflix Landing Page Clone** built using **pure HTML and CSS**. It's
 Simply clone the repository and open the `index.html` file in your browser:
 
 ```bash
-git clone https://github.com/yourusername/netflix-clone.git
+git clone  https://github.com/PrafullShinde28/Netflix_Clone.git
 cd netflix-clone
 open index.html
 ```
@@ -77,7 +77,7 @@ Netflix_Clone/
 A **special thanks** to **CodeWithHarry** and his **Sigma Web Development Course**, which guided me through core concepts and inspired me to build this project.
 
 Check out his amazing tutorials here:  
-👉 [CodeWithHarry - Sigma Web Development Course](https://www.codewithharry.com/)
+👉 [CodeWithHarry - Sigma Web Development Course]([https://www.codewithharry.com/](https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=o7zmrm08D_7vcN44))
 
 ---
 
